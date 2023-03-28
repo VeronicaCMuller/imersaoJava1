@@ -29,7 +29,7 @@ public class App {
             System.out.println("\u001b[1m Poster:\u001b[m" + serie.get("image"));
             System.out.println("\u001b[37;1m \u001b[45;1mClassificação:\u001b[m " + serie.get("imDbRating"));
             double nota = Double.parseDouble(serie.get("imDbRating"));
-            if (nota < 3.0) {
+            if (nota <= 3.0) {
                 System.out.println("⭐");
             }else if (nota > 3.0 && nota < 5.1) {
                 System.out.println("⭐⭐");
