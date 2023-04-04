@@ -12,6 +12,8 @@ Primeira aula de uma semana de imersão junto com a Alura, onde tive o prazer de
 
 Segunda aula: Senti mais dificuldade e precisei buscar um pouco mais de auxílio para executar as tarefas e desafios do dia, são muitas bibliotecas e ferramenteas novas. Tentei executar formas diferentes de realizar os desafios e faltaram alguns detalhes no meu conhecimento para que eu pudesse seguir em frente, e isso trouxe empolgação, pois com novos desafios terei a chance de aprender mais ao buscar melhoria.  
 
+Terceira Aula: Aula desafiadora, onde tivemos a oportunidade de começar a limpar o código, lidando com herança, polimorfismo e outras formas. Segui , na maior parte do tempo, o que foi demonstrado pelos instrutores, mas surgiram alguns erros, trabalhei para encontrá-los e corrigi-los. Saio desta aula tendo a certeza do quanto a imersão sendo benéfica, que com toda certeza, utilizarei este projeto como uma fonte de estudo posteriormente.
+
 
 ## 🚀 Tecnologias
 
@@ -54,6 +56,19 @@ Iniciamos realizando conexão Http para buscar top 250 filmes do site IMDB, extr
 
         5. Colocar uma imagem de você que está fazendo esse curso sorrindo, fazendo joinha e fazer com que o texto da figurinha seja personalizado de acordo com as classificações do IMDB.!
     
+</p>
+
+<h3> Aula 3 -  Ligando as pontas, refatoração e orientação a objetos. </h3>
+<p>
+• Desafios do terceiro dia:
+
+        ⒈ Transformar a classe que representa os conteúdos em um Record, disponível a partir do Java 16.
+        
+        ⒉ Criar as suas próprias exceções e usá-las na classe que implementa o cliente HTTP.
+        
+        ⒊ Usar recursos do Java 8 e posterior, como Streams e Lambdas, para mapear uma lista em uma outra.
+
+        4. Criar uma Enum que une, como configurações, a URL da API e o extrator utilizado.
 </p>
 
 
