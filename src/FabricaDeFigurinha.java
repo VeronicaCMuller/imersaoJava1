@@ -39,7 +39,7 @@ public class FabricaDeFigurinha {
         graphics.setFont(fonte);
        
         // escrever na nova imagem
-        String texto = "Muito bom!";
+        String texto = "Bom!";
         FontMetrics metricasFonte =graphics.getFontMetrics();
         Rectangle2D retangulo = metricasFonte.getStringBounds(texto, graphics);
 

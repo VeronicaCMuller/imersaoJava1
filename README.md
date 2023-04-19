@@ -14,6 +14,8 @@ Segunda aula: Senti mais dificuldade e precisei buscar um pouco mais de auxílio
 
 Terceira Aula: Aula desafiadora, onde tivemos a oportunidade de começar a limpar o código, lidando com herança, polimorfismo e outras formas. Segui , na maior parte do tempo, o que foi demonstrado pelos instrutores, mas surgiram alguns erros, trabalhei para encontrá-los e corrigi-los. Saio desta aula tendo a certeza do quanto a imersão sendo benéfica, que com toda certeza, utilizarei este projeto como uma fonte de estudo posteriormente.
 
+Quarta Aula: Tivemos a oportunidade de criar nossa própria API, foi desafiador, pois não tive contato com Spring, MongoDB e Postman anteriormente, achei incrível essa experiência, encontrei dificuldades e também formas de resolve-las, estou feliz com todo esse aprendizado. 
+
 
 ## 🚀 Tecnologias
 
@@ -24,6 +26,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Json
 - Git e Github
 - Visual Studio Code
+- Spring
+- MongoDB
+- Postman
 
 ## 💻 Projeto
     
@@ -69,6 +74,17 @@ Iniciamos realizando conexão Http para buscar top 250 filmes do site IMDB, extr
         ⒊ Usar recursos do Java 8 e posterior, como Streams e Lambdas, para mapear uma lista em uma outra.
 
         4. Criar uma Enum que une, como configurações, a URL da API e o extrator utilizado.
+</p>
+
+<h3> Aula 4 -  Criando nossa própria API com SPRING </h3>
+<p>
+• Desafios do quarto dia:
+
+        ⒈ Finalizar o CRUD (Create, Read, Update e Delete) para que se possa atualizar e excluir uma linguagem cadastrada;
+        
+        ⒉ Devolver a listagem ordenada pelo ranking;Devolver a listagem ordenada pelo ranking;
+
+        ⒊ Retornar o status 201 quando um recurso (linguagem, no nosso caso) for cadastrado através do POST; 
 </p>
 
 
